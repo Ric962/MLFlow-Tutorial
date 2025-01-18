@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa58ada26b764e46baf11484c3ec02fe/artifacts
+end_time: 1737193955680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa58ada26b764e46baf11484c3ec02fe
+run_name: orderly-croc-663
+run_uuid: aa58ada26b764e46baf11484c3ec02fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737193955585
+status: 3
+tags: []
+user_id: nikhil
